@@ -4,7 +4,6 @@ A modern, full-featured scientific calculator built as a native Android app usin
 
 ## Features
 
-- **Standard & Scientific Modes** — toggle between basic and advanced operations
 - **Full Scientific Functions** — `sin`, `cos`, `tan`, `sin⁻¹`, `cos⁻¹`, `tan⁻¹`, `log`, `ln`, `√`, `^`, `!`
 - **Constants** — `π` and `e`
 - **Rad / Deg Toggle** — switch between Radian and Degree mode for trig functions
@@ -62,10 +61,3 @@ npx cap sync
 ```
 Then open the `android/` folder in Android Studio and click **Run**.
 
-## Screenshots
-
-> Dark themed, circular button layout — inspired by modern Android calculator design.
-
-## License
-
-MIT © 2024
