@@ -1,4 +1,4 @@
-# ScientiFi Calculator 🧮
+# ScientiFic Calculator 🧮
 
 A modern, full-featured scientific calculator built as a native Android app using React and Capacitor.
 
